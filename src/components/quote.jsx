@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "./style/Quote.css";
-import Location from "./Location";
 class Quote extends Component {
   state = {
     error: null,
