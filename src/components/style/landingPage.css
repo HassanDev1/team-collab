@@ -4,6 +4,7 @@
 .container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(1, 1fr);
   grid-gap: 5px;
   align-items: center;
   overflow: hidden;
@@ -18,7 +19,6 @@
 }
 .container > .rightSide {
   grid-column: 2;
-
   align-content: center;
   justify-content: center;
   font-size: calc(10px + 1vmin);
@@ -72,6 +72,14 @@ span {
   margin-top: 50%;
 }
 @media (max-width: 900px) {
+  .container > .rightSide {
+    grid-column: 1/-1;
+    grid-row: 1;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    font-size: calc(10px + 1vmin);
+  }
   .container > .leftSide {
     grid-column: 1/-1;
     align-content: center;
@@ -80,13 +88,7 @@ span {
     padding: 5%;
     font-size: calc(10px + 1vmin);
   }
-  .container > .rightSide {
-    grid-column: 1/-1;
-    text-align: center;
-    align-content: center;
-    justify-content: center;
-    font-size: calc(10px + 1vmin);
-  }
+
   .getStarted {
     padding: 10px;
     background: #f14405;
