@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/team-collab/static/css/main.349a9374.chunk.css",
+    "main.js": "/team-collab/static/js/main.dd86e6eb.chunk.js",
+    "main.js.map": "/team-collab/static/js/main.dd86e6eb.chunk.js.map",
+    "runtime-main.js": "/team-collab/static/js/runtime-main.a62c244d.js",
+    "runtime-main.js.map": "/team-collab/static/js/runtime-main.a62c244d.js.map",
+    "static/css/2.5bc09813.chunk.css": "/team-collab/static/css/2.5bc09813.chunk.css",
+    "static/js/2.7028168d.chunk.js": "/team-collab/static/js/2.7028168d.chunk.js",
+    "static/js/2.7028168d.chunk.js.map": "/team-collab/static/js/2.7028168d.chunk.js.map",
+    "index.html": "/team-collab/index.html",
+    "precache-manifest.1a4c6d964b0ba59c3776735ae520c4f4.js": "/team-collab/precache-manifest.1a4c6d964b0ba59c3776735ae520c4f4.js",
+    "service-worker.js": "/team-collab/service-worker.js",
+    "static/css/2.5bc09813.chunk.css.map": "/team-collab/static/css/2.5bc09813.chunk.css.map",
+    "static/css/main.349a9374.chunk.css.map": "/team-collab/static/css/main.349a9374.chunk.css.map",
+    "static/media/collaborate.png": "/team-collab/static/media/collaborate.366949f8.png",
+    "static/media/logo.png": "/team-collab/static/media/logo.e1e7fe4c.png",
+    "static/media/track.png": "/team-collab/static/media/track.5ecbf2f9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a62c244d.js",
+    "static/css/2.5bc09813.chunk.css",
+    "static/js/2.7028168d.chunk.js",
+    "static/css/main.349a9374.chunk.css",
+    "static/js/main.dd86e6eb.chunk.js"
+  ]
+}
