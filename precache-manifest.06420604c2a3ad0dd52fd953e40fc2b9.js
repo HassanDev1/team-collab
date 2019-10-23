@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e0a0d7dd052e8651fb8e281017f200d",
+    "revision": "91875393e0dcc372490115aa783a4819",
     "url": "/team-collab/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/team-collab/static/css/2.5bc09813.chunk.css"
   },
   {
-    "revision": "1512a81f53341e9f132e",
+    "revision": "f936e59a5a444b977187",
     "url": "/team-collab/static/css/main.349a9374.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/team-collab/static/js/2.7028168d.chunk.js"
   },
   {
-    "revision": "1512a81f53341e9f132e",
-    "url": "/team-collab/static/js/main.dd86e6eb.chunk.js"
+    "revision": "f936e59a5a444b977187",
+    "url": "/team-collab/static/js/main.b4cf1203.chunk.js"
   },
   {
     "revision": "d5ed5370097a9854f803",
