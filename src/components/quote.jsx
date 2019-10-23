@@ -9,9 +9,12 @@ class Quote extends Component {
   };
   abortController = new AbortController();
   componentDidMount() {
-    fetch("http://quotes.rest/qod.json?category=inspire", {
-      signal: this.abortController.signal
-    })
+    fetch(
+      "https://cors-anywhere.herokuapp.com/http://quotes.rest/qod.json?category=inspire",
+      {
+        signal: this.abortController.signal
+      }
+    )
       .then(res => res.json())
       .then(
         result => {
