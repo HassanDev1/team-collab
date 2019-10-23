@@ -44,8 +44,6 @@ class Quote extends Component {
     } else {
       return (
         <div className="quote-container">
-          <p>You are in </p>
-          <Location />
           <h2>Quote of the day</h2>
           <p>
             "{contents.quotes[0].quote}" - {contents.quotes[0].author}{" "}
