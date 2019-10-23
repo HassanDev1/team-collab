@@ -1,0 +1,16 @@
+.quote-container {
+  grid-column: 2 / 4;
+  grid-row: 3 / 4;
+  padding: 10px;
+  text-align: center;
+  align-self: center;
+  justify-self: center;
+}
+
+@media only screen and (max-width: 675px) {
+  .quote-container {
+    grid-column: 1 / 5;
+    grid-row: 3 / 4;
+    margin: 0 20px 0 20px;
+  }
+}
