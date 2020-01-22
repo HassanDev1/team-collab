@@ -81,7 +81,7 @@ const LandingPage = () => {
       <div className="container">
         <div className="leftSide">
           <ScrollAnimation animateIn="bounceInLeft" animateOut="bounceOutLeft">
-            <h2>Work together more efficeintly</h2>
+            <h2>Work together more efficiently</h2>
             <span>
               <p>Collaborate</p>
             </span>
