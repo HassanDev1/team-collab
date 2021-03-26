@@ -1,2 +1,2 @@
 
-(https://github.com/Hassan78/DemoGifs/blob/master/teamCollab.gif)
+![Finished App](https://github.com/Hassan78/DemoGifs/blob/master/teamCollab.gif)
